@@ -3,4 +3,4 @@
 örnek mapbox kullanımı
 
 
-[Blog yazısı için tıklayın](https://flutter.dev/docs)
+[Blog yazısı için tıklayın](https://sinankanidagli.medium.com/flutter-harita-entegrasyonu-mapbox-1-957053deb2b4)
